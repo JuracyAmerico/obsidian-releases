@@ -18982,5 +18982,12 @@
     "author": "Daniel Rhodes",
     "description": "Automatically creates backlinks for specified keywords with variations and preview mode.",
     "repo": "danrhodes/AutoKeywordLinker"
+  },
+  {
+    "id": "teleprompter-plus",
+    "name": "Teleprompter Plus",
+    "author": "JuracyAmerico",
+    "description": "Professional teleprompter with mobile remote control, Stream Deck integration, countdown timer, and voice tracking.",
+    "repo": "JuracyAmerico/obsidian-teleprompter-plus"
   }
 ]
